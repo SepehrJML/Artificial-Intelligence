@@ -4,3 +4,5 @@
 ### Group flowers into clusters based on their physical characteristics using unsupervised learning
 # Snake Game
 ### Train AI agents to play the Snake game using reinforcement learning (Qlearning) . The agent learns to maximize its score by collecting food and avoiding enemy.
+# Suicidal Note Detection
+### A project for detecting suicidal notes in Twitter (X) using a Custom CNN made by PyTorch library.
